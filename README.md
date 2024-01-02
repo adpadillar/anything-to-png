@@ -28,7 +28,7 @@ python main.py encode bee-movie-script.md bee-movie-script.png
 
 We get the following image:
 
-!["bee-movie-script.png"](bee-movie.png)
+!["bee-movie-script.png"](public/bee-movie-script.png)
 
 We can then decode the image back into the original file:
 
