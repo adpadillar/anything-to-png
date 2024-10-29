@@ -1,6 +1,6 @@
 # Anything to png
 
-This is a fun little project that encodes any file into a png image. It's not very efficient, but it works.
+This is a fun little project that encodes any file into a png image
 
 The way it works is by taking the binary data of the files and converting each hexadecimel character into a pixel. We can therefore store 1920 x 1080 x 4 = 8 294 400 bits of data in a single image.
 
